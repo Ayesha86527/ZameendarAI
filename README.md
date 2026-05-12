@@ -4,7 +4,7 @@
 
 By synthesizing real-time environmental data with advanced AI analysis, Zameendar.ai provides instant, data-driven scores and actionable insights to help users make informed land-use decisions.
 
-![Demo Placeholder](https://via.placeholder.com/800x400?text=Zameendar.ai+Dashboard+Preview)
+![Demo Placeholder](public/image.png)
 
 ## ✨ Key Features
 
