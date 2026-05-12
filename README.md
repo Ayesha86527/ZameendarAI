@@ -56,8 +56,8 @@ The core of Zameendar.ai is a specialized analysis pipeline that transforms raw 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/zameendar-ai.git
-   cd zameendar-ai
+   git clone https://github.com/your-username/ZameendarAI.git
+   cd ZameendarAI
    ```
 
 2. **Install dependencies**
@@ -70,9 +70,15 @@ The core of Zameendar.ai is a specialized analysis pipeline that transforms raw 
    ```env
    # Google Gemini API Key
    GOOGLE_GENERATIVE_AI_API_KEY=your_gemini_key_here
+
+   # Tavily API Key
+   TAVILY_API_KEY=your_tavily_api_key
    
    # Google Maps API Key
    NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_google_maps_key_here
+
+   # App configuration
+   NEXT_PUBLIC_APP_URL=http://localhost:3000
    ```
 
 4. **Run Development Server**
